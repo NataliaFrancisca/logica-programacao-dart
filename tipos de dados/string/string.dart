@@ -1,11 +1,3 @@
-// string - são textos
-// pode ter só letras, números, caracteres, mistrura de todos
-// string pode ter aspas simples, ou aspas duplas
-// string => oq está dentro das aspas
-// aspas duplas para frases
-// aspas simples para uma palavra
-// melhor ter um padrão
-
 void main(){
   String yourName;
   var miNombre = 'Natalia';
@@ -43,6 +35,4 @@ void operadores(){
   var c = a + b; //NataliaFrancisca
 }
 
-void substring(){
-  
-}
+

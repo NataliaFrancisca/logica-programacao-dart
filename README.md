@@ -5,9 +5,9 @@ Repositório para guardar anotações e exemplos que estão sendo utilizados no 
 🔗[Lógica de Programação com Dart](https://balta.io/cursos/logica-de-programacao-com-dart)
 
 - [X] Introdução
-- [ ] Tipos de Dados
-- [ ] Operadores Lógicos
-- [ ] Operadores Condicionais
+- [X] Tipos de Dados
+- [X] Operadores Lógicos
+- [X] Operadores Condicionais
 - [ ] Funções
 - [ ] Repetições
 - [ ] Orientação a Objetos

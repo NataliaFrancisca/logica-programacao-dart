@@ -8,8 +8,8 @@ Repositório para guardar anotações e exemplos que estão sendo utilizados no 
 - [X] Tipos de Dados
 - [X] Operadores Lógicos
 - [X] Operadores Condicionais
-- [ ] Funções
-- [ ] Repetições
+- [X] Funções
+- [X] Repetições
 - [ ] Orientação a Objetos
 - [ ] Null Safety
 - [ ] Exercícios
